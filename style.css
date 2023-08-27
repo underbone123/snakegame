@@ -44,7 +44,7 @@ body {
     background: #60CBFF;
 }
 .controls {
-    display: none;
+    display: flex;
     justify-content: space-between;
 }
 .controls i {
